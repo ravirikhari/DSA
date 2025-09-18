@@ -2,6 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+repo-access
 
 ### Eclipse ###
 .apt_generated
